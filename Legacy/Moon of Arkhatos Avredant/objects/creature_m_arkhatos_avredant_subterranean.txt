@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_subterranean
+
+[OBJECT:CREATURE]
+
+Domestic 15/15
+
+.
+
+Large 15/15
+
+.
+
+Medium 15/15
+
+.
+
+Megabeast 1/1
+
+.
+
+Sentient 1/1
+
+.
+
+Semimegabeast 1/1
+
+.
+
+Small 15/15
+
+.
+
+Wilderness 15/15
+
+.
+
+Vermin 15/15
+
+.

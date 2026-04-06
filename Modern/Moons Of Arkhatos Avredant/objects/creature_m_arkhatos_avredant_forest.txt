@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_forest
+
+[OBJECT:CREATURE]
+
+Domestic 45/45
+
+.
+
+Large 45/45
+
+.
+
+Medium 45/45
+
+.
+
+Megabeast 9/9
+
+.
+
+Sentient 9/9
+
+.
+
+Semimegabeast 9/9
+
+.
+
+Small 45/45
+
+.
+
+Wilderness 45/45
+
+.
+
+Vermin 45/45
+
+.

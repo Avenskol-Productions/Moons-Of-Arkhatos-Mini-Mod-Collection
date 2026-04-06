@@ -1,0 +1,27 @@
+creature_m_arkhatos_avredant_ocean
+
+[OBJECT:CREATURE]
+
+Domestic 20/20
+
+.
+
+Large 20/20
+
+.
+
+Medium 20/20
+
+.
+
+Small 20/20
+
+.
+
+Wilderness 20/20
+
+.
+
+Vermin 20/20
+
+.

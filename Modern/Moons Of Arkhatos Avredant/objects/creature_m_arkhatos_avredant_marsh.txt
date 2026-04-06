@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_marsh
+
+[OBJECT:CREATURE]
+
+Domestic 30/30
+
+.
+
+Large 30/30
+
+.
+
+Medium 30/30
+
+.
+
+Megabeast 6/6
+
+.
+
+Sentient 6/6
+
+.
+
+Semimegabeast 6/6
+
+.
+
+Small 30/30
+
+.
+
+Wilderness 30/30
+
+.
+
+Vermin 30/30
+
+.

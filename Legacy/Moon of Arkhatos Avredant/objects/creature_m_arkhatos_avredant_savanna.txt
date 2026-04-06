@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_savanna
+
+[OBJECT:CREATURE]
+
+Domestic 15/15
+
+.
+
+Large 15/15
+
+.
+
+Medium 15/15
+
+.
+
+Megabeast 3/3
+
+.
+
+Sentient 3/3
+
+.
+
+Semimegabeast 3/3
+
+.
+
+Small 15/15
+
+.
+
+Wilderness 15/15
+
+.
+
+Vermin 15/15
+
+.

@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_swamp
+
+[OBJECT:CREATURE]
+
+Domestic 35/35
+
+.
+
+Large 35/35
+
+.
+
+Medium 35/35
+
+.
+
+Megabeast 7/7
+
+.
+
+Sentient 7/7
+
+.
+
+Semimegabeast 7/7
+
+.
+
+Small 35/35
+
+.
+
+Wilderness 35/35
+
+.
+
+Vermin 35/35
+
+.

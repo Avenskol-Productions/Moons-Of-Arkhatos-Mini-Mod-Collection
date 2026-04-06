@@ -1,0 +1,7 @@
+creature_m_arkhatos_avredant_pool
+
+[OBJECT:CREATURE]
+
+Vermin 35/35
+
+.

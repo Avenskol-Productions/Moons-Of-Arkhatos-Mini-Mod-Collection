@@ -1,0 +1,39 @@
+creature_m_arkhatos_avredant_desert
+
+[OBJECT:CREATURE]
+
+Domestic 20/20
+
+.
+
+Large 20/20
+
+.
+
+Medium 20/20
+
+.
+
+Megabeast 4/4
+
+.
+
+Sentient 4/4
+
+.
+
+Semimegabeast 4/4
+
+.
+
+Small 20/20
+
+.
+
+Wilderness 20/20
+
+.
+
+Vermin 20/20
+
+.
